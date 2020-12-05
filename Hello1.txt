@@ -1,0 +1,18 @@
+rgjbrbrl;;
+
+cd desktop
+cd test
+git init
+
+git config --global user.name "Safaa Achour"
+git config --global user.email "votre  email"
+
+
+git add .
+git commit -m "notif sur le commit"
+git status
+
+
+
+
+git add nom_fichierfjrf
