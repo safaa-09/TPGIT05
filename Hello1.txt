@@ -1,0 +1,8 @@
+rgjbrbrl;;
+
+cd desktop
+cd test
+git init
+git status
+
+git add nom_fichierfjrf
